@@ -6,3 +6,5 @@ A collection of machine learning projects I completed during my internship at El
 - [Loan Approval Prediction](https://tinyurl.com/mryt5ehy)
 - [Movie Recommendation System](https://tinyurl.com/4yfykyc4)
 - [Music Genre Classification](https://tinyurl.com/39svvjek)
+- [Sales Forecasting](https://tinyurl.com/5duyrsze)
+- [Traffic Sign Recognition](https://tinyurl.com/54tmmk8p)
